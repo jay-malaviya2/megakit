@@ -70,10 +70,6 @@
     transition: 0.5s;
 }
 
-.soc-icon li a:hover {
-    color: #f75757;
-}
-
 .con-info li a,
 .para,
 .hed,
@@ -178,11 +174,13 @@
     color: white;
     background: #f52626;
 }
-.copy-a:hover,.f-d-a:hover{
+.copy-a:hover,.f-d-a:hover,.fa-facebook-f:hover,.fa-twitter:hover,.fa-github:hover{
     color: #f75757;
     background-color: transparent;
 }
-
+.fa-facebook-f,.fa-twitter,.fa-github{
+    transition: 0.5s;
+}
 .btn-lrn:hover{
     color: white;
     background-color: #f75757;
