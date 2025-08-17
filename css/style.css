@@ -477,8 +477,7 @@ font-size: 20px;
 .slider-1-h5 {
     color: black;
     padding: 0px 0px 0px 65px;
-    font-size: 20px;
-    
+    font-size: 20px;  
 }
 
 .image4 {
@@ -629,6 +628,7 @@ font-size: 20px;
 
 .f-d-a{
     font-size: 20px;
+    transition: 0.5s;
 }
 
 .inputbox{
@@ -644,7 +644,6 @@ font-size: 20px;
     width: 120px;
     height: 40px;
     background-color: #f75757;
-    border: 2px solid #f75757;
     text-align: center;
     padding: 10px 10px 30px 10px;
     transition: 0.5s;
@@ -677,6 +676,7 @@ font-size: 20px;
     color: black;
     font-weight: 600;
     font-size: 17px;
+    transition: 0.5s;
 }
 
 .social-footer-a{
