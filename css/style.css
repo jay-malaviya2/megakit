@@ -179,7 +179,7 @@
     background-color: transparent;
 }
 .fa-facebook-f,.fa-twitter,.fa-github{
-    transition: 0.5s;
+    transition: 0.4s;
 }
 .btn-lrn:hover{
     color: white;
